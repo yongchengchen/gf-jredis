@@ -8,7 +8,7 @@ import (
 	"github.com/gogf/gf/frame/g"
 	"github.com/gogf/gf/net/ghttp"
 	"github.com/yongchengchen/gf-jredis/app/model"
-	"github.com/yongchengchen/gf-jredislibrary/response"
+	"github.com/yongchengchen/gf-jredis/library/response"
 )
 
 // 用户API管理对象

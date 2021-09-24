@@ -1,4 +1,4 @@
-module github.com/gogf/gf-demos
+module github.com/yongchengchen/gf-jredis
 
 go 1.11
 
